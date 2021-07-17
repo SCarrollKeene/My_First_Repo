@@ -2,6 +2,15 @@ h1,h2,h3 {
     margin: 0;
 }
 
+body {
+    line-height: 1;
+    font-size: 17px;
+}
+
+ol, ul {
+    list-style: none;
+}
+
 a {
     color: whitesmoke;
 }
@@ -66,8 +75,4 @@ nav {
 
 .center {
     text-align: center;
-}
-
-ul {
-    list-style: none;
 }
